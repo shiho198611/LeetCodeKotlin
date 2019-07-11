@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="medium.String2IntegerAtoiTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2019-07-11T17:17:47" hostname="ShihodeMBP" time="0.085">
+  <properties/>
+  <testcase name="testExample1" classname="medium.String2IntegerAtoiTest" time="0.074"/>
+  <testcase name="testExample2" classname="medium.String2IntegerAtoiTest" time="0.002"/>
+  <testcase name="testExample3" classname="medium.String2IntegerAtoiTest" time="0.0"/>
+  <testcase name="testExample04" classname="medium.String2IntegerAtoiTest" time="0.0"/>
+  <testcase name="testExample05" classname="medium.String2IntegerAtoiTest" time="0.0"/>
+  <testcase name="testExample06" classname="medium.String2IntegerAtoiTest" time="0.0"/>
+  <testcase name="testExample07" classname="medium.String2IntegerAtoiTest" time="0.0"/>
+  <testcase name="testExample08" classname="medium.String2IntegerAtoiTest" time="0.001"/>
+  <testcase name="testExample09" classname="medium.String2IntegerAtoiTest" time="0.0"/>
+  <testcase name="testExample10" classname="medium.String2IntegerAtoiTest" time="0.0"/>
+  <testcase name="testExample11" classname="medium.String2IntegerAtoiTest" time="0.0"/>
+  <testcase name="testExample12" classname="medium.String2IntegerAtoiTest" time="0.0"/>
+  <testcase name="testExample13" classname="medium.String2IntegerAtoiTest" time="0.0"/>
+  <testcase name="testExample14" classname="medium.String2IntegerAtoiTest" time="0.001"/>
+  <testcase name="testExample15" classname="medium.String2IntegerAtoiTest" time="0.0"/>
+  <testcase name="testExample16" classname="medium.String2IntegerAtoiTest" time="0.002"/>
+  <testcase name="testExample17" classname="medium.String2IntegerAtoiTest" time="0.0"/>
+  <testcase name="testExample18" classname="medium.String2IntegerAtoiTest" time="0.0"/>
+  <testcase name="testExample19" classname="medium.String2IntegerAtoiTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

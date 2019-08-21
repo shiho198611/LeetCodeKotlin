@@ -4,26 +4,23 @@ public class FirstBadVersion extends VersionControl {
 
     public int firstBadVersion(int n) {
 
-        int index = n;
-        boolean lastCheck = false;
-        int lastCheckIndex = 0;
+        int max = n;
+        int min = 1;
+        int mid;
 
-        while (true) {
-            boolean check = isBadVersion(index);
-            if(check) {
-                lastCheckIndex = index;
-                lastCheck = true;
-                int newIndex = index / 2;
+        while (min < max) {
 
-                if(newIndex < lastCheckIndex) {
+            mid = min + (max - min)/2;
 
-                }
+            if(isBadVersion(mid)) {
+                max = mid;
             }
             else {
-                index = index + (lastCheckIndex - index)/2;
+                min = mid+1;
             }
         }
 
+        return max;
     }
 
 }

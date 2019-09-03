@@ -11,30 +11,28 @@ class PowerfulIntegers {
         val xPowSet = mutableListOf<Double>()
         val yPowSet = HashSet<Double>()
 
-        var tmpPowY = 1.0
-        var yIndex = 0
+        val dX = x.toDouble()
+        val dY = y.toDouble()
 
         run loopY@ {
-            while (tmpPowY < bound) {
-                tmpPowY = y.toDouble().pow(yIndex)
-
-                yPowSet.add(tmpPowY)
-                yIndex++
-                if(y == 1) {
+            for(yInx in 0..19) {
+                val yPow = dY.pow(yInx)
+                if(yPow <= bound) {
+                    yPowSet.add(yPow)
+                }
+                else {
                     return@loopY
                 }
             }
         }
 
-        var tmpPowX = 1.0
-        var xIndex = 0
-
         run loopX@ {
-            while (tmpPowX < bound) {
-                tmpPowX = x.toDouble().pow(xIndex)
-                xPowSet.add(tmpPowX)
-                xIndex++
-                if(x == 1) {
+            for(xInx in 0..19) {
+                val xPow = dX.pow(xInx)
+                if(xPow <= bound) {
+                    xPowSet.add(xPow)
+                }
+                else {
                     return@loopX
                 }
             }

@@ -4,33 +4,26 @@ class FindPivotIndex {
 
     fun pivotIndex(nums: IntArray): Int {
 
-        if(nums.isEmpty()) {
-            return -1
-        }
+        var rightSum = nums.fold(0){acc: Int, i: Int -> acc+i }
+        var result = -1
+        var leftSum = 0
 
-        var leftIndex = 0
-        var rightIndex = nums.size - 1
+        run loop@ {
+            for(inx in nums.indices) {
 
-        var leftSum = nums[0]
-        var rightSum = nums[nums.size - 1]
+                rightSum -= nums[inx]
 
-        while (leftIndex < rightIndex) {
-
-            if(leftSum > rightSum) {
-                rightIndex--
-                rightSum += nums[rightIndex]
-            }
-            else {
-                leftIndex++
-                leftSum += nums[leftIndex]
+                if(leftSum == rightSum) {
+                    result = inx
+                    return@loop
+                }
+                else {
+                    leftSum += nums[inx]
+                }
             }
         }
 
-        if(leftSum == rightSum) {
-            return leftIndex
-        }
-
-        return -1
+        return result
     }
 
 }

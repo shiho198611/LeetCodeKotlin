@@ -52,4 +52,14 @@ class FindPivotIndexTest {
 
         Assert.assertEquals(result, verify)
     }
+
+    @Test
+    fun findPivotIndex_Test05() {
+        val nums = intArrayOf(-1,-1,0,0,-1,-1)
+        val verify = 2
+
+        val result = findPivotIndex.pivotIndex(nums)
+
+        Assert.assertEquals(result, verify)
+    }
 }

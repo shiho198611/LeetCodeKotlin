@@ -33,4 +33,24 @@ class CountAndSayTest {
         Assert.assertEquals(result, verify)
     }
 
+    @Test
+    fun countAndSay_Test03() {
+        val input = 3
+        val verify = "21"
+
+        val result = countAndSay.countAndSay(input)
+
+        Assert.assertEquals(result, verify)
+    }
+
+    @Test
+    fun countAndSay_Test04() {
+        val input = 10
+        val verify = "13211311123113112211"
+
+        val result = countAndSay.countAndSay(input)
+
+        Assert.assertEquals(result, verify)
+    }
+
 }

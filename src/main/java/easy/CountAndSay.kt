@@ -6,23 +6,28 @@ class CountAndSay {
 
         var result = "1"
 
-        for(index in 2 until (n+1)) {
+        for(cnt in 2 until (n+1)) {
 
             var tmp = '0'
             var tmpCnt = 0
-            var rTmp = ""
+            var rTmp = StringBuilder()
 
-            for(index in result.indices) {
-                if(result[index] != tmp) {
-                    tmp = result[index]
+            for(digit in result) {
+                if(digit != tmp) {
+                    if(tmp != '0') {
+                        rTmp.append(tmpCnt).append(tmp)
+                        tmpCnt = 0
+                    }
+                    tmp = digit
                     tmpCnt++
-                    rTmp += (tmpCnt.toString()+tmp.toString())
                 }
-
-                result = rTmp
-
+                else{
+                    tmpCnt++
+                }
             }
 
+            rTmp.append(tmpCnt).append(tmp)
+            result = rTmp.toString()
         }
 
         return result

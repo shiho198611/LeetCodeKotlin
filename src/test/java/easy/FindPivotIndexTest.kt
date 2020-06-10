@@ -1,5 +1,6 @@
 package easy
 
+import easy.array.FindPivotIndex
 import org.junit.Assert
 import org.junit.Before
 import org.junit.Test

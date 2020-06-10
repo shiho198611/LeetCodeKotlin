@@ -1,21 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03d92868-4928-45a0-877a-c95e834b4bd0" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <ignored path="$PROJECT_DIR$/javaproblem/.gradle/" />
-    <ignored path="$PROJECT_DIR$/javaproblem/build/" />
-    <ignored path="$PROJECT_DIR$/javaproblem/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="03d92868-4928-45a0-877a-c95e834b4bd0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/LeetCodeKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/LeetCodeKotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/medium/String2IntegerAtoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/medium/String2IntegerAtoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/META-INF/LeetCodeKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/META-INF/LeetCodeKotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/medium/String2IntegerAtoiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/medium/String2IntegerAtoiTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/AddToArrayFormOfInteger.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/AddToArrayFormOfInteger.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/BestTimeToBuyAndSellStock2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/BestTimeToBuyAndSellStock2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/BestTimeToBuySellStock.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/BestTimeToBuySellStock.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/ContainsDuplicate.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/ContainsDuplicate.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/CountPrimes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/CountPrimes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/FindAllNumbersDisappearedInAnArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/FindAllNumbersDisappearedInAnArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/FindPivotIndex.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/FindPivotIndex.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/FirstUniqueCharacterInString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/FirstUniqueCharacterInString.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/HappyNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/HappyNumber.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/IntersectionOfTwoArrays2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/IntersectionOfTwoArrays2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/IsomorphicStrings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/IsomorphicStrings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/JewelsAndStones.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/JewelsAndStones.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/MajorityElement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/MajorityElement.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/MergeSortedArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/MergeSortedArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/MergeTwoSortedLists.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/linkedlist/MergeTwoSortedLists.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/MinCostClimbingStairs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/MinCostClimbingStairs.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/MinimumAbsoluteDifference.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/MinimumAbsoluteDifference.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/MissingNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/MissingNumber.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/MoveZeroes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/MoveZeroes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/PowerfulIntegers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/PowerfulIntegers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/RemoveDuplicatesFromSortedArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/RemoveDuplicatesFromSortedArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/ReverseLinkedList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/linkedlist/ReverseLinkedList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/RotateArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/RotateArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/SingleNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/SingleNumber.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/SumOfEvenNumbersAfterQueries.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/SumOfEvenNumbersAfterQueries.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/TwoSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/TwoSum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/ValidAnagram.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/ValidAnagram.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/AddToArrayFormOfIntegerTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/AddToArrayFormOfIntegerTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/BestTimeToBuyAndSellStock2Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/BestTimeToBuyAndSellStock2Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/BestTimeToBuySellStockTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/BestTimeToBuySellStockTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/ContainsDuplicateTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/ContainsDuplicateTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/CountPrimesTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/CountPrimesTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/FindAllNumbersDisappearedInAnArrayTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/FindAllNumbersDisappearedInAnArrayTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/FindPivotIndexTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/FindPivotIndexTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/FirstUniqueCharacterInStringTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/FirstUniqueCharacterInStringTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/HappyNumberTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/HappyNumberTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/IntersectionOfTwoArrays2Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/IntersectionOfTwoArrays2Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/IsomorphicStringsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/IsomorphicStringsTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/JewelsAndStonesTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/JewelsAndStonesTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/MajorityElementTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/MajorityElementTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/MergeSortedArrayTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/MergeSortedArrayTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/MergeTwoSortedListsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/MergeTwoSortedListsTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/MinCostClimbingStairsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/MinCostClimbingStairsTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/MinimumAbsoluteDifferenceTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/MinimumAbsoluteDifferenceTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/MissingNumberTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/MissingNumberTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/MoveZeroesTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/MoveZeroesTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/PowerfulIntegersTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/PowerfulIntegersTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/RemoveDuplicatesFromSortedArrayTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/RemoveDuplicatesFromSortedArrayTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/ReverseLinkedListTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/ReverseLinkedListTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/RotateArrayTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/RotateArrayTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/SingleNumberTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/SingleNumberTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/SumOfEvenNumbersAfterQueriesTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/SumOfEvenNumbersAfterQueriesTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/TwoSumTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/TwoSumTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/ValidAnagramTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/ValidAnagramTest.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -38,17 +91,6 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="LeetCodeKotlin" type="f1a62948:ProjectNode" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="LeetCodeKotlin" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="LeetCodeKotlin" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
             </expand>
             <select />
           </tree_state>
@@ -56,33 +98,12 @@
       </state>
     </system>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/easy/RotateArray.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/easy/FindAllNumbersDisappearedInAnArray.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -90,160 +111,29 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$USER_HOME$/Downloads/LeetCodeKotlin/src/main/java/medium/String2IntegerAtoi.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/medium/String2IntegerAtoi.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/medium/String2IntegerAtoiTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/hard/RegularExpressionMatching.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/hard/RegularExpressionMatchingTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/hard/RegularExpressionMatching.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/RemoveDuplicatesFromSortedArrayTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/RemoveDuplicatesFromSortedArray.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/MissingNumberTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/MissingNumber.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/CountPrimes.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/IntersectionOfTwoArrays2Test.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/IntersectionOfTwoArrays2.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/CountPrimesTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/RotateArray.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/RotateArrayTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/AddToArrayFormOfIntegerTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/AddToArrayFormOfInteger.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/SumOfEvenNumbersAfterQueriesTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/SumOfEvenNumbersAfterQueries.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/MoveZeroesTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/MoveZeroes.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/MergeSortedArrayTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/MergeSortedArray.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/TestTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/FirstBadVersion.java" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/FirstBadVersionTest.java" />
-        <option value="$PROJECT_DIR$/javaproblem/src/main/java/easy/VersionControl.java" />
-        <option value="$PROJECT_DIR$/javaproblem/build.gradle" />
-        <option value="$PROJECT_DIR$/javaproblem/src/test/java/easy/FirstBadVersionTest.java" />
-        <option value="$PROJECT_DIR$/javaproblem/src/main/java/easy/FirstBadVersion.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="726" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeetCodeKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeKotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeKotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeKotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeKotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeKotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeKotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeKotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeKotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeKotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeKotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeKotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeKotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1cqQFEQH8hnPVokdU0MxrEkgq4a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562552131550" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591253115794" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
       <recent name="medium" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="easy.linkedlist" />
+      <recent name="easy.hashtable" />
+      <recent name="easy.array" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="easy" />
@@ -252,112 +142,98 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.FirstBadVersionTest.firstBadVersion_Test01">
-    <configuration name="FirstBadVersionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.IntersectionTwoLinkedListsTest.getIntersectionNode_Test02">
+    <configuration name="IntersectionTwoLinkedListsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.easy.*" />
+          <option name="PATTERN" value="easy.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy" />
-      <option name="MAIN_CLASS_NAME" value="easy.FirstBadVersionTest" />
+      <option name="PACKAGE_NAME" value="easy.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="easy.linkedlist.IntersectionTwoLinkedListsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstBadVersionTest.firstBadVersion_Test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaproblem.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="easy" />
-      <option name="MAIN_CLASS_NAME" value="easy.FirstBadVersionTest" />
-      <option name="METHOD_NAME" value="firstBadVersion_Test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstBadVersionTest.test01 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaproblem.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="easy" />
-      <option name="MAIN_CLASS_NAME" value="easy.FirstBadVersionTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstBadVersionTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IntersectionTwoLinkedListsTest.getIntersectionNode_Test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.easy.*" />
+          <option name="PATTERN" value="easy.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy" />
-      <option name="MAIN_CLASS_NAME" value="easy.FirstBadVersionTest" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="easy.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="easy.linkedlist.IntersectionTwoLinkedListsTest" />
+      <option name="METHOD_NAME" value="getIntersectionNode_Test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortedArrayTest.merge_Test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IntersectionTwoLinkedListsTest.getIntersectionNode_Test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.easy.*" />
+          <option name="PATTERN" value="easy.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy" />
-      <option name="MAIN_CLASS_NAME" value="easy.MergeSortedArrayTest" />
-      <option name="METHOD_NAME" value="merge_Test01" />
+      <option name="PACKAGE_NAME" value="easy.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="easy.linkedlist.IntersectionTwoLinkedListsTest" />
+      <option name="METHOD_NAME" value="getIntersectionNode_Test02" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListCycleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodeKotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="easy.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="easy.linkedlist.LinkedListCycleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicatesFromSortedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodeKotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="easy.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="easy.linkedlist.RemoveDuplicatesFromSortedListTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.MergeSortedArrayTest.merge_Test01" />
-      <item itemvalue="JUnit.FirstBadVersionTest.test01" />
-      <item itemvalue="JUnit.FirstBadVersionTest" />
-      <item itemvalue="JUnit.FirstBadVersionTest.test01 (1)" />
-      <item itemvalue="JUnit.FirstBadVersionTest.firstBadVersion_Test01" />
+      <item itemvalue="JUnit.RemoveDuplicatesFromSortedListTest" />
+      <item itemvalue="JUnit.LinkedListCycleTest" />
+      <item itemvalue="JUnit.IntersectionTwoLinkedListsTest" />
+      <item itemvalue="JUnit.IntersectionTwoLinkedListsTest.getIntersectionNode_Test01" />
+      <item itemvalue="JUnit.IntersectionTwoLinkedListsTest.getIntersectionNode_Test02" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FirstBadVersionTest.firstBadVersion_Test01" />
-        <item itemvalue="JUnit.FirstBadVersionTest.test01 (1)" />
-        <item itemvalue="JUnit.FirstBadVersionTest" />
-        <item itemvalue="JUnit.FirstBadVersionTest.test01" />
-        <item itemvalue="JUnit.MergeSortedArrayTest.merge_Test01" />
+        <item itemvalue="JUnit.IntersectionTwoLinkedListsTest.getIntersectionNode_Test02" />
+        <item itemvalue="JUnit.IntersectionTwoLinkedListsTest.getIntersectionNode_Test01" />
+        <item itemvalue="JUnit.IntersectionTwoLinkedListsTest" />
+        <item itemvalue="JUnit.LinkedListCycleTest" />
+        <item itemvalue="JUnit.RemoveDuplicatesFromSortedListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -374,364 +250,67 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="MergeSortedArrayTest_merge_Test01 - 2019.08.21 at 02h 34m 50s.xml">
-      <configuration name="MergeSortedArrayTest.merge_Test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MergeSortedArrayTest - 2019.08.21 at 02h 34m 55s.xml">
-      <configuration name="MergeSortedArrayTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MergeSortedArrayTest_merge_Test01 - 2019.08.21 at 02h 35m 57s.xml">
-      <configuration name="MergeSortedArrayTest.merge_Test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MergeSortedArrayTest_merge_Test01 - 2019.08.21 at 02h 37m 59s.xml">
-      <configuration name="MergeSortedArrayTest.merge_Test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstBadVersionTest_test01_(1) - 2019.08.21 at 03h 04m 02s.xml">
-      <configuration name="FirstBadVersionTest.test01 (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstBadVersionTest_firstBadVersion_Test01 - 2019.08.21 at 03h 16m 07s.xml">
-      <configuration name="FirstBadVersionTest.firstBadVersion_Test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstBadVersionTest_firstBadVersion_Test01 - 2019.08.21 at 03h 17m 21s.xml">
-      <configuration name="FirstBadVersionTest.firstBadVersion_Test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstBadVersionTest_firstBadVersion_Test01 - 2019.08.21 at 03h 17m 43s.xml">
-      <configuration name="FirstBadVersionTest.firstBadVersion_Test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstBadVersionTest_firstBadVersion_Test01 - 2019.08.21 at 03h 17m 59s.xml">
-      <configuration name="FirstBadVersionTest.firstBadVersion_Test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstBadVersionTest_firstBadVersion_Test01 - 2019.08.21 at 03h 27m 15s.xml">
-      <configuration name="FirstBadVersionTest.firstBadVersion_Test01" configurationId="JUnit" />
-    </history-entry>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1240" height="599" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1591267528977">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state x="100" y="123" width="1240" height="599" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591267528977" />
+    <state x="446" y="208" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1591352834472">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state x="446" y="208" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591352834472" />
+    <state width="1398" height="271" key="GridCell.Tab.0.bottom" timestamp="1591612474647">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591612474647" />
+    <state width="1398" height="271" key="GridCell.Tab.0.center" timestamp="1591612474644">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.0.center/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591612474644" />
+    <state width="1398" height="271" key="GridCell.Tab.0.left" timestamp="1591612474643">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.0.left/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591612474643" />
+    <state width="1398" height="271" key="GridCell.Tab.0.right" timestamp="1591612474645">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.0.right/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591612474645" />
+    <state width="1398" height="325" key="GridCell.Tab.1.bottom" timestamp="1591609720877">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state width="1398" height="325" key="GridCell.Tab.1.bottom/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591609720877" />
+    <state width="1398" height="325" key="GridCell.Tab.1.center" timestamp="1591609720877">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state width="1398" height="325" key="GridCell.Tab.1.center/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591609720877" />
+    <state width="1398" height="325" key="GridCell.Tab.1.left" timestamp="1591609720876">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state width="1398" height="325" key="GridCell.Tab.1.left/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591609720876" />
+    <state width="1398" height="325" key="GridCell.Tab.1.right" timestamp="1591609720877">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state width="1398" height="325" key="GridCell.Tab.1.right/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591609720877" />
+    <state x="385" y="146" width="670" height="676" key="search.everywhere.popup" timestamp="1591266024317">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state x="385" y="146" width="670" height="676" key="search.everywhere.popup/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591266024317" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="726" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29321486" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="simpleUML" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.52208203" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.3273906" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32901135" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32649842" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="PlantUML" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Gradle" order="7" weight="0.32956383" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Maven" order="10" />
-    </layout>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/test/java/easy/ReverseLinkedListTest.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/LeetCodeKotlin/src/main/java/medium/String2IntegerAtoi.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/medium/String2IntegerAtoiTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/String2IntegerAtoi.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hard/RegularExpressionMatchingTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-          <folding>
-            <element signature="e#14#98#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hard/RegularExpressionMatching.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.41/8f361846168f853fb213b0ab02d193f02644548/kotlin-stdlib-common-1.3.41-sources.jar!/generated/_Arrays.kt" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/RemoveDuplicatesFromSortedArrayTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="90" column="42" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
-          <folding>
-            <element signature="e#14#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/MissingNumberTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="44" column="38" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
-          <folding>
-            <element signature="e#14#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/RemoveDuplicatesFromSortedArray.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/MissingNumber.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar!/java/lang/ClassLoader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3628">
-          <caret line="281" column="110" selection-start-line="281" selection-start-column="110" selection-end-line="281" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar!/java/lang/System.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="124" selection-start-line="124" selection-end-line="124" />
-          <folding>
-            <element signature="e#3584#3585#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/CountPrimes.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/CountPrimesTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-          <folding>
-            <element signature="e#14#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/IntersectionOfTwoArrays2Test.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding>
-            <element signature="e#14#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/RotateArrayTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="30" column="45" lean-forward="true" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
-          <folding>
-            <element signature="e#14#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/IntersectionOfTwoArrays2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar!/java/lang/Integer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="244" selection-start-line="244" selection-end-line="244" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="143" selection-start-line="143" selection-end-line="143" />
-          <folding>
-            <element signature="e#4455#4456#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/AddToArrayFormOfInteger.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/SumOfEvenNumbersAfterQueriesTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="e#14#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/AddToArrayFormOfIntegerTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="e#14#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/SumOfEvenNumbersAfterQueries.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/MoveZeroesTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/RotateArray.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/ValidAnagram.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/MoveZeroes.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/MergeSortedArrayTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-          <folding>
-            <element signature="e#14#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/TestTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/FirstBadVersionTest.java" />
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaproblem/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="77" selection-start-line="15" selection-start-column="77" selection-end-line="15" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/MergeSortedArray.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaproblem/src/main/java/easy/VersionControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaproblem/src/test/java/easy/FirstBadVersionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="72" lean-forward="true" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
-          <folding>
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaproblem/src/main/java/easy/FirstBadVersion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCodeKotlin$RemoveDuplicatesFromSortedListTest_deleteDuplicates_Test01.ic" NAME="RemoveDuplicatesFromSortedListTest.deleteDuplicates_Test01 Coverage Results" MODIFIED="1591586979533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.linkedlist.*</FILTER>
+    </SUITE>
   </component>
   <component name="masterDetails">
     <states>
@@ -749,6 +328,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>Kotlin</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -760,6 +340,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -807,6 +388,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.41</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

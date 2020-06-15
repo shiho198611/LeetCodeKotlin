@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="03d92868-4928-45a0-877a-c95e834b4bd0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/AddDigits.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/math/AddDigits.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/DayOfTheYear.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/math/DayOfTheYear.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/RangeAddition2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/math/RangeAddition2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/AddDigitsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/AddDigitsTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/DayOfTheYearTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/DayOfTheYearTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/RangeAddition2Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/RangeAddition2Test.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +70,7 @@
       <recent name="medium" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="easy.binarysearch" />
       <recent name="easy.math" />
       <recent name="easy.linkedlist" />
       <recent name="easy.hashtable" />
@@ -88,100 +83,99 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LongestCommonPrefixTest">
-    <configuration name="LongestCommonPrefixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.IsSubsequenceTest">
+    <configuration name="IsSubsequenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.string.*" />
+          <option name="PATTERN" value="easy.binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.string" />
-      <option name="MAIN_CLASS_NAME" value="easy.string.LongestCommonPrefixTest" />
+      <option name="PACKAGE_NAME" value="easy.binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="easy.binarysearch.IsSubsequenceTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefixTest.longestCommonPrefix_Test06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsSubsequenceTest.isSubsequence_Test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.string.*" />
+          <option name="PATTERN" value="easy.binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.string" />
-      <option name="MAIN_CLASS_NAME" value="easy.string.LongestCommonPrefixTest" />
-      <option name="METHOD_NAME" value="longestCommonPrefix_Test06" />
+      <option name="PACKAGE_NAME" value="easy.binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="easy.binarysearch.IsSubsequenceTest" />
+      <option name="METHOD_NAME" value="isSubsequence_Test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefixTest.longestCommonPrefix_Test07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsSubsequenceTest.isSubsequence_Test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.string.*" />
+          <option name="PATTERN" value="easy.binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.string" />
-      <option name="MAIN_CLASS_NAME" value="easy.string.LongestCommonPrefixTest" />
-      <option name="METHOD_NAME" value="longestCommonPrefix_Test07" />
+      <option name="PACKAGE_NAME" value="easy.binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="easy.binarysearch.IsSubsequenceTest" />
+      <option name="METHOD_NAME" value="isSubsequence_Test03" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefixTest.longestCommonPrefix_Test08" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ValidPerfectSquareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.string.*" />
+          <option name="PATTERN" value="easy.binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.string" />
-      <option name="MAIN_CLASS_NAME" value="easy.string.LongestCommonPrefixTest" />
-      <option name="METHOD_NAME" value="longestCommonPrefix_Test08" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="easy.binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="easy.binarysearch.ValidPerfectSquareTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefixTest.longestCommonPrefix_Testtt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ValidPerfectSquareTest.isPerfectSquare_Test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.string.*" />
+          <option name="PATTERN" value="easy.binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.string" />
-      <option name="MAIN_CLASS_NAME" value="easy.string.LongestCommonPrefixTest" />
-      <option name="METHOD_NAME" value="longestCommonPrefix_Testtt" />
+      <option name="PACKAGE_NAME" value="easy.binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="easy.binarysearch.ValidPerfectSquareTest" />
+      <option name="METHOD_NAME" value="isPerfectSquare_Test04" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.LongestCommonPrefixTest" />
-      <item itemvalue="JUnit.LongestCommonPrefixTest.longestCommonPrefix_Test06" />
-      <item itemvalue="JUnit.LongestCommonPrefixTest.longestCommonPrefix_Testtt" />
-      <item itemvalue="JUnit.LongestCommonPrefixTest.longestCommonPrefix_Test07" />
-      <item itemvalue="JUnit.LongestCommonPrefixTest.longestCommonPrefix_Test08" />
+      <item itemvalue="JUnit.ValidPerfectSquareTest" />
+      <item itemvalue="JUnit.ValidPerfectSquareTest.isPerfectSquare_Test04" />
+      <item itemvalue="JUnit.IsSubsequenceTest" />
+      <item itemvalue="JUnit.IsSubsequenceTest.isSubsequence_Test03" />
+      <item itemvalue="JUnit.IsSubsequenceTest.isSubsequence_Test01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LongestCommonPrefixTest" />
-        <item itemvalue="JUnit.LongestCommonPrefixTest.longestCommonPrefix_Test08" />
-        <item itemvalue="JUnit.LongestCommonPrefixTest.longestCommonPrefix_Test07" />
-        <item itemvalue="JUnit.LongestCommonPrefixTest.longestCommonPrefix_Testtt" />
-        <item itemvalue="JUnit.LongestCommonPrefixTest.longestCommonPrefix_Test06" />
+        <item itemvalue="JUnit.IsSubsequenceTest" />
+        <item itemvalue="JUnit.IsSubsequenceTest.isSubsequence_Test01" />
+        <item itemvalue="JUnit.IsSubsequenceTest.isSubsequence_Test03" />
+        <item itemvalue="JUnit.ValidPerfectSquareTest" />
+        <item itemvalue="JUnit.ValidPerfectSquareTest.isPerfectSquare_Test04" />
       </list>
     </recent_temporary>
   </component>
@@ -203,42 +197,42 @@
       <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state x="100" y="123" width="1240" height="599" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591267528977" />
-    <state x="446" y="208" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1591761165787">
+    <state x="446" y="208" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1592207362248">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state x="446" y="208" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591761165787" />
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom" timestamp="1591775432842">
+    <state x="446" y="208" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592207362248" />
+    <state width="1398" height="271" key="GridCell.Tab.0.bottom" timestamp="1592218627933">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591775432842" />
-    <state width="1398" height="271" key="GridCell.Tab.0.center" timestamp="1591775432841">
+    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218627933" />
+    <state width="1398" height="271" key="GridCell.Tab.0.center" timestamp="1592218627932">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.center/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591775432841" />
-    <state width="1398" height="271" key="GridCell.Tab.0.left" timestamp="1591775432840">
+    <state width="1398" height="271" key="GridCell.Tab.0.center/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218627932" />
+    <state width="1398" height="271" key="GridCell.Tab.0.left" timestamp="1592218627932">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.left/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591775432840" />
-    <state width="1398" height="271" key="GridCell.Tab.0.right" timestamp="1591775432841">
+    <state width="1398" height="271" key="GridCell.Tab.0.left/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218627932" />
+    <state width="1398" height="271" key="GridCell.Tab.0.right" timestamp="1592218627932">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.right/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591775432841" />
-    <state width="1398" height="209" key="GridCell.Tab.1.bottom" timestamp="1591773793837">
+    <state width="1398" height="271" key="GridCell.Tab.0.right/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218627932" />
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom" timestamp="1592218435919">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="209" key="GridCell.Tab.1.bottom/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591773793837" />
-    <state width="1398" height="209" key="GridCell.Tab.1.center" timestamp="1591773793837">
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218435919" />
+    <state width="1398" height="246" key="GridCell.Tab.1.center" timestamp="1592218435917">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="209" key="GridCell.Tab.1.center/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591773793837" />
-    <state width="1398" height="209" key="GridCell.Tab.1.left" timestamp="1591773793836">
+    <state width="1398" height="246" key="GridCell.Tab.1.center/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218435917" />
+    <state width="1398" height="246" key="GridCell.Tab.1.left" timestamp="1592218435916">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="209" key="GridCell.Tab.1.left/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591773793836" />
-    <state width="1398" height="209" key="GridCell.Tab.1.right" timestamp="1591773793837">
+    <state width="1398" height="246" key="GridCell.Tab.1.left/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218435916" />
+    <state width="1398" height="246" key="GridCell.Tab.1.right" timestamp="1592218435918">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="209" key="GridCell.Tab.1.right/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591773793837" />
+    <state width="1398" height="246" key="GridCell.Tab.1.right/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218435918" />
     <state x="385" y="146" width="670" height="676" key="search.everywhere.popup" timestamp="1591266024317">
       <screen x="0" y="23" width="1440" height="799" />
     </state>

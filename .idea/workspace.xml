@@ -83,8 +83,8 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.IsSubsequenceTest">
-    <configuration name="IsSubsequenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ContainerWithMostWaterTest.maxArea_Test01">
+    <configuration name="BinarySearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
@@ -93,29 +93,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="easy.binarysearch" />
-      <option name="MAIN_CLASS_NAME" value="easy.binarysearch.IsSubsequenceTest" />
+      <option name="MAIN_CLASS_NAME" value="easy.binarysearch.BinarySearchTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsSubsequenceTest.isSubsequence_Test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ContainerWithMostWaterTest.maxArea_Test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.binarysearch.*" />
+          <option name="PATTERN" value="medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.binarysearch" />
-      <option name="MAIN_CLASS_NAME" value="easy.binarysearch.IsSubsequenceTest" />
-      <option name="METHOD_NAME" value="isSubsequence_Test01" />
+      <option name="PACKAGE_NAME" value="medium" />
+      <option name="MAIN_CLASS_NAME" value="medium.ContainerWithMostWaterTest" />
+      <option name="METHOD_NAME" value="maxArea_Test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsSubsequenceTest.isSubsequence_Test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SqrtXTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
@@ -124,29 +124,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="easy.binarysearch" />
-      <option name="MAIN_CLASS_NAME" value="easy.binarysearch.IsSubsequenceTest" />
-      <option name="METHOD_NAME" value="isSubsequence_Test03" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidPerfectSquareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodeKotlin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.binarysearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="easy.binarysearch" />
-      <option name="MAIN_CLASS_NAME" value="easy.binarysearch.ValidPerfectSquareTest" />
+      <option name="MAIN_CLASS_NAME" value="easy.binarysearch.SqrtXTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidPerfectSquareTest.isPerfectSquare_Test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SqrtXTest.mySqrt_Test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
@@ -155,27 +139,43 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="easy.binarysearch" />
-      <option name="MAIN_CLASS_NAME" value="easy.binarysearch.ValidPerfectSquareTest" />
-      <option name="METHOD_NAME" value="isPerfectSquare_Test04" />
+      <option name="MAIN_CLASS_NAME" value="easy.binarysearch.SqrtXTest" />
+      <option name="METHOD_NAME" value="mySqrt_Test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqrtXTest.mySqrt_Test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodeKotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="easy.binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="easy.binarysearch.SqrtXTest" />
+      <option name="METHOD_NAME" value="mySqrt_Test04" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ValidPerfectSquareTest" />
-      <item itemvalue="JUnit.ValidPerfectSquareTest.isPerfectSquare_Test04" />
-      <item itemvalue="JUnit.IsSubsequenceTest" />
-      <item itemvalue="JUnit.IsSubsequenceTest.isSubsequence_Test03" />
-      <item itemvalue="JUnit.IsSubsequenceTest.isSubsequence_Test01" />
+      <item itemvalue="JUnit.BinarySearchTest" />
+      <item itemvalue="JUnit.SqrtXTest" />
+      <item itemvalue="JUnit.SqrtXTest.mySqrt_Test04" />
+      <item itemvalue="JUnit.SqrtXTest.mySqrt_Test01" />
+      <item itemvalue="JUnit.ContainerWithMostWaterTest.maxArea_Test01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IsSubsequenceTest" />
-        <item itemvalue="JUnit.IsSubsequenceTest.isSubsequence_Test01" />
-        <item itemvalue="JUnit.IsSubsequenceTest.isSubsequence_Test03" />
-        <item itemvalue="JUnit.ValidPerfectSquareTest" />
-        <item itemvalue="JUnit.ValidPerfectSquareTest.isPerfectSquare_Test04" />
+        <item itemvalue="JUnit.ContainerWithMostWaterTest.maxArea_Test01" />
+        <item itemvalue="JUnit.SqrtXTest.mySqrt_Test01" />
+        <item itemvalue="JUnit.SqrtXTest" />
+        <item itemvalue="JUnit.SqrtXTest.mySqrt_Test04" />
+        <item itemvalue="JUnit.BinarySearchTest" />
       </list>
     </recent_temporary>
   </component>
@@ -197,42 +197,42 @@
       <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state x="100" y="123" width="1240" height="599" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591267528977" />
-    <state x="446" y="208" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1592207362248">
+    <state x="446" y="208" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1592464487671">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state x="446" y="208" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592207362248" />
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom" timestamp="1592218627933">
+    <state x="446" y="208" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592464487671" />
+    <state width="1398" height="271" key="GridCell.Tab.0.bottom" timestamp="1599544836079">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218627933" />
-    <state width="1398" height="271" key="GridCell.Tab.0.center" timestamp="1592218627932">
+    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1599544836079" />
+    <state width="1398" height="271" key="GridCell.Tab.0.center" timestamp="1599544836078">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.center/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218627932" />
-    <state width="1398" height="271" key="GridCell.Tab.0.left" timestamp="1592218627932">
+    <state width="1398" height="271" key="GridCell.Tab.0.center/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1599544836078" />
+    <state width="1398" height="271" key="GridCell.Tab.0.left" timestamp="1599544836077">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.left/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218627932" />
-    <state width="1398" height="271" key="GridCell.Tab.0.right" timestamp="1592218627932">
+    <state width="1398" height="271" key="GridCell.Tab.0.left/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1599544836077" />
+    <state width="1398" height="271" key="GridCell.Tab.0.right" timestamp="1599544836078">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.right/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218627932" />
-    <state width="1398" height="246" key="GridCell.Tab.1.bottom" timestamp="1592218435919">
+    <state width="1398" height="271" key="GridCell.Tab.0.right/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1599544836078" />
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom" timestamp="1592465577925">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.1.bottom/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218435919" />
-    <state width="1398" height="246" key="GridCell.Tab.1.center" timestamp="1592218435917">
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592465577925" />
+    <state width="1398" height="246" key="GridCell.Tab.1.center" timestamp="1592465577925">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.1.center/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218435917" />
-    <state width="1398" height="246" key="GridCell.Tab.1.left" timestamp="1592218435916">
+    <state width="1398" height="246" key="GridCell.Tab.1.center/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592465577925" />
+    <state width="1398" height="246" key="GridCell.Tab.1.left" timestamp="1592465577925">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.1.left/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218435916" />
-    <state width="1398" height="246" key="GridCell.Tab.1.right" timestamp="1592218435918">
+    <state width="1398" height="246" key="GridCell.Tab.1.left/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592465577925" />
+    <state width="1398" height="246" key="GridCell.Tab.1.right" timestamp="1592465577925">
       <screen x="0" y="23" width="1440" height="799" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.1.right/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592218435918" />
+    <state width="1398" height="246" key="GridCell.Tab.1.right/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1592465577925" />
     <state x="385" y="146" width="670" height="676" key="search.everywhere.popup" timestamp="1591266024317">
       <screen x="0" y="23" width="1440" height="799" />
     </state>

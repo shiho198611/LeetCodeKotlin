@@ -1,4 +1,4 @@
-package easy
+package easy.math
 
 class AddDigits {
     fun addDigits(num: Int): Int {

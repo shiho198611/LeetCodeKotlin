@@ -2,68 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03d92868-4928-45a0-877a-c95e834b4bd0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeetCodeKotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCodeKotlin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/medium/String2IntegerAtoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/medium/String2IntegerAtoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/LeetCodeKotlin10SNAPSHOTjar-classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/LeetCodeKotlin10SNAPSHOTjar-classes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/LeetCodeKotlin-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/LeetCodeKotlin-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/LeetCodeKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/LeetCodeKotlin.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/medium/String2IntegerAtoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/medium/String2IntegerAtoi.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/META-INF/LeetCodeKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/META-INF/LeetCodeKotlin.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/medium/String2IntegerAtoiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/medium/String2IntegerAtoiTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/AddToArrayFormOfInteger.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/AddToArrayFormOfInteger.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/BestTimeToBuyAndSellStock2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/BestTimeToBuyAndSellStock2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/BestTimeToBuySellStock.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/BestTimeToBuySellStock.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/ContainsDuplicate.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/ContainsDuplicate.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/CountPrimes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/CountPrimes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/FindAllNumbersDisappearedInAnArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/FindAllNumbersDisappearedInAnArray.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/FindPivotIndex.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/FindPivotIndex.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/FirstUniqueCharacterInString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/FirstUniqueCharacterInString.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/HappyNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/HappyNumber.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/IntersectionOfTwoArrays2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/IntersectionOfTwoArrays2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/IsomorphicStrings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/IsomorphicStrings.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/JewelsAndStones.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/JewelsAndStones.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/MajorityElement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/MajorityElement.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/MergeSortedArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/MergeSortedArray.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/MergeTwoSortedLists.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/linkedlist/MergeTwoSortedLists.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/MinCostClimbingStairs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/MinCostClimbingStairs.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/MinimumAbsoluteDifference.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/MinimumAbsoluteDifference.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/MissingNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/MissingNumber.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/MoveZeroes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/MoveZeroes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/PowerfulIntegers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/PowerfulIntegers.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/RemoveDuplicatesFromSortedArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/RemoveDuplicatesFromSortedArray.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/ReverseLinkedList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/linkedlist/ReverseLinkedList.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/RotateArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/RotateArray.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/SingleNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/SingleNumber.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/SumOfEvenNumbersAfterQueries.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/SumOfEvenNumbersAfterQueries.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/TwoSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/TwoSum.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/ValidAnagram.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/hashtable/ValidAnagram.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/AddToArrayFormOfIntegerTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/AddToArrayFormOfIntegerTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/BestTimeToBuyAndSellStock2Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/BestTimeToBuyAndSellStock2Test.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/BestTimeToBuySellStockTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/BestTimeToBuySellStockTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/ContainsDuplicateTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/ContainsDuplicateTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/CountPrimesTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/CountPrimesTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/FindAllNumbersDisappearedInAnArrayTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/FindAllNumbersDisappearedInAnArrayTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/FindPivotIndexTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/FindPivotIndexTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/FirstUniqueCharacterInStringTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/FirstUniqueCharacterInStringTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/HappyNumberTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/HappyNumberTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/IntersectionOfTwoArrays2Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/IntersectionOfTwoArrays2Test.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/IsomorphicStringsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/IsomorphicStringsTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/JewelsAndStonesTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/JewelsAndStonesTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/MajorityElementTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/MajorityElementTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/MergeSortedArrayTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/MergeSortedArrayTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/MergeTwoSortedListsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/MergeTwoSortedListsTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/MinCostClimbingStairsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/MinCostClimbingStairsTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/MinimumAbsoluteDifferenceTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/MinimumAbsoluteDifferenceTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/MissingNumberTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/MissingNumberTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/MoveZeroesTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/MoveZeroesTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/PowerfulIntegersTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/PowerfulIntegersTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/RemoveDuplicatesFromSortedArrayTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/RemoveDuplicatesFromSortedArrayTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/ReverseLinkedListTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/ReverseLinkedListTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/RotateArrayTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/RotateArrayTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/SingleNumberTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/SingleNumberTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/SumOfEvenNumbersAfterQueriesTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/SumOfEvenNumbersAfterQueriesTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/TwoSumTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/TwoSumTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/ValidAnagramTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/ValidAnagramTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/DayOfTheYear.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/DayOfTheYear.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/array/FindPivotIndex.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/array/FindPivotIndex.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,13 +127,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591253115794" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
   </component>
   <component name="RecentsManager">
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
@@ -142,98 +153,93 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.IntersectionTwoLinkedListsTest.getIntersectionNode_Test02">
-    <configuration name="IntersectionTwoLinkedListsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FindPivotIndexTest">
+    <configuration name="FibonacciNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.linkedlist.*" />
+          <option name="PATTERN" value="easy.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="easy.linkedlist.IntersectionTwoLinkedListsTest" />
+      <option name="PACKAGE_NAME" value="easy.array" />
+      <option name="MAIN_CLASS_NAME" value="easy.array.FibonacciNumberTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionTwoLinkedListsTest.getIntersectionNode_Test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FibonacciNumberTest.fibTestCase01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.linkedlist.*" />
+          <option name="PATTERN" value="easy.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="easy.linkedlist.IntersectionTwoLinkedListsTest" />
-      <option name="METHOD_NAME" value="getIntersectionNode_Test01" />
+      <option name="PACKAGE_NAME" value="easy.array" />
+      <option name="MAIN_CLASS_NAME" value="easy.array.FibonacciNumberTest" />
+      <option name="METHOD_NAME" value="fibTestCase01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionTwoLinkedListsTest.getIntersectionNode_Test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FibonacciNumberTest.fibTestCase02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.linkedlist.*" />
+          <option name="PATTERN" value="easy.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="easy.linkedlist.IntersectionTwoLinkedListsTest" />
-      <option name="METHOD_NAME" value="getIntersectionNode_Test02" />
+      <option name="PACKAGE_NAME" value="easy.array" />
+      <option name="MAIN_CLASS_NAME" value="easy.array.FibonacciNumberTest" />
+      <option name="METHOD_NAME" value="fibTestCase02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListCycleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindPivotIndexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.linkedlist.*" />
+          <option name="PATTERN" value="easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="easy.linkedlist.LinkedListCycleTest" />
+      <option name="PACKAGE_NAME" value="easy" />
+      <option name="MAIN_CLASS_NAME" value="easy.FindPivotIndexTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromSortedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestingTesting.testCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodeKotlin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="easy.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="easy.linkedlist.RemoveDuplicatesFromSortedListTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestingTesting" />
+      <option name="METHOD_NAME" value="testCase" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.RemoveDuplicatesFromSortedListTest" />
-      <item itemvalue="JUnit.LinkedListCycleTest" />
-      <item itemvalue="JUnit.IntersectionTwoLinkedListsTest" />
-      <item itemvalue="JUnit.IntersectionTwoLinkedListsTest.getIntersectionNode_Test01" />
-      <item itemvalue="JUnit.IntersectionTwoLinkedListsTest.getIntersectionNode_Test02" />
+      <item itemvalue="JUnit.FibonacciNumberTest.fibTestCase01" />
+      <item itemvalue="JUnit.FibonacciNumberTest.fibTestCase02" />
+      <item itemvalue="JUnit.FibonacciNumberTest" />
+      <item itemvalue="JUnit.TestingTesting.testCase" />
+      <item itemvalue="JUnit.FindPivotIndexTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IntersectionTwoLinkedListsTest.getIntersectionNode_Test02" />
-        <item itemvalue="JUnit.IntersectionTwoLinkedListsTest.getIntersectionNode_Test01" />
-        <item itemvalue="JUnit.IntersectionTwoLinkedListsTest" />
-        <item itemvalue="JUnit.LinkedListCycleTest" />
-        <item itemvalue="JUnit.RemoveDuplicatesFromSortedListTest" />
+        <item itemvalue="JUnit.FindPivotIndexTest" />
+        <item itemvalue="JUnit.TestingTesting.testCase" />
+        <item itemvalue="JUnit.FibonacciNumberTest" />
+        <item itemvalue="JUnit.FibonacciNumberTest.fibTestCase02" />
+        <item itemvalue="JUnit.FibonacciNumberTest.fibTestCase01" />
       </list>
     </recent_temporary>
   </component>
@@ -251,50 +257,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="123" width="1240" height="599" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1591267528977">
-      <screen x="0" y="23" width="1440" height="799" />
+    <state x="240" y="34" key="#Plugins" timestamp="1607875117200">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
-    <state x="100" y="123" width="1240" height="599" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591267528977" />
-    <state x="446" y="208" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1591352834472">
-      <screen x="0" y="23" width="1440" height="799" />
+    <state x="240" y="34" key="#Plugins/0.23.1280.726@0.23.1280.726" timestamp="1607875117200" />
+    <state x="391" y="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1607875924004">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
-    <state x="446" y="208" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591352834472" />
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom" timestamp="1591612474647">
-      <screen x="0" y="23" width="1440" height="799" />
+    <state x="391" y="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1280.726@0.23.1280.726" timestamp="1607875924004" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom" timestamp="1608659791019">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591612474647" />
-    <state width="1398" height="271" key="GridCell.Tab.0.center" timestamp="1591612474644">
-      <screen x="0" y="23" width="1440" height="799" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1608659791019" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center" timestamp="1608659791017">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.center/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591612474644" />
-    <state width="1398" height="271" key="GridCell.Tab.0.left" timestamp="1591612474643">
-      <screen x="0" y="23" width="1440" height="799" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1608659791017" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left" timestamp="1608659791016">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.left/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591612474643" />
-    <state width="1398" height="271" key="GridCell.Tab.0.right" timestamp="1591612474645">
-      <screen x="0" y="23" width="1440" height="799" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1608659791016" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right" timestamp="1608659791018">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.right/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591612474645" />
-    <state width="1398" height="325" key="GridCell.Tab.1.bottom" timestamp="1591609720877">
-      <screen x="0" y="23" width="1440" height="799" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1608659791018" />
+    <state x="149" y="23" key="SettingsEditor" timestamp="1607875542760">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
-    <state width="1398" height="325" key="GridCell.Tab.1.bottom/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591609720877" />
-    <state width="1398" height="325" key="GridCell.Tab.1.center" timestamp="1591609720877">
-      <screen x="0" y="23" width="1440" height="799" />
+    <state x="149" y="23" key="SettingsEditor/0.23.1280.726@0.23.1280.726" timestamp="1607875542760" />
+    <state x="443" y="307" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607875121714">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
-    <state width="1398" height="325" key="GridCell.Tab.1.center/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591609720877" />
-    <state width="1398" height="325" key="GridCell.Tab.1.left" timestamp="1591609720876">
-      <screen x="0" y="23" width="1440" height="799" />
-    </state>
-    <state width="1398" height="325" key="GridCell.Tab.1.left/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591609720876" />
-    <state width="1398" height="325" key="GridCell.Tab.1.right" timestamp="1591609720877">
-      <screen x="0" y="23" width="1440" height="799" />
-    </state>
-    <state width="1398" height="325" key="GridCell.Tab.1.right/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591609720877" />
-    <state x="385" y="146" width="670" height="676" key="search.everywhere.popup" timestamp="1591266024317">
-      <screen x="0" y="23" width="1440" height="799" />
-    </state>
-    <state x="385" y="146" width="670" height="676" key="search.everywhere.popup/0.23.1440.799/-255.-1057.1920.1057@0.23.1440.799" timestamp="1591266024317" />
+    <state x="443" y="307" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.726@0.23.1280.726" timestamp="1607875121714" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -311,93 +305,5 @@
     <SUITE FILE_PATH="coverage/LeetCodeKotlin$RemoveDuplicatesFromSortedListTest_deleteDuplicates_Test01.ic" NAME="RemoveDuplicatesFromSortedListTest.deleteDuplicates_Test01 Coverage Results" MODIFIED="1591586979533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>easy.linkedlist.*</FILTER>
     </SUITE>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Kotlin</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Bundled Protobuf Distribution</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>LeetCodeKotlin</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.41</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

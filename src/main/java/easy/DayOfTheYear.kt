@@ -8,7 +8,7 @@ class DayOfTheYear {
         val dates = date.split("-").map { it.toInt() }
 
         if(dates[0] % 4 == 0 && dates[0] % 100 != 0 || dates[0] % 400 == 0) {
-            months[1] += 1
+            months[1]++
         }
 
         var result = dates[2]

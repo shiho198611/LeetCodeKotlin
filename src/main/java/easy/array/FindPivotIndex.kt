@@ -8,18 +8,16 @@ class FindPivotIndex {
         var result = -1
         var leftSum = 0
 
-        run loop@ {
-            for(inx in nums.indices) {
+        for(inx in nums.indices) {
 
-                rightSum -= nums[inx]
+            rightSum -= nums[inx]
 
-                if(leftSum == rightSum) {
-                    result = inx
-                    return@loop
-                }
-                else {
-                    leftSum += nums[inx]
-                }
+            if(leftSum == rightSum) {
+                result = inx
+                break
+            }
+            else {
+                leftSum += nums[inx]
             }
         }
 
